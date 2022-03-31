@@ -1,1 +1,2 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/jx2mfx57f05fwqdl?svg=true)](https://ci.appveyor.com/project/GrebenkovaMaria/hw-at-2-3-3-ibank)
+# Статус
+[![Build status](https://ci.appveyor.com/api/projects/status/kag20jugm724na5r?svg=true)](https://ci.appveyor.com/project/MikhailVoroshilov/ibank)
